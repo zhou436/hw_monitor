@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# logs written by --log / nohup
+*.csv
+nohup.out
